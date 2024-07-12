@@ -1,6 +1,6 @@
-# Projeto dragons
+# Projeto Dragons
 
-Projeto criado para mostrar alguns dos dragões da série House of the Dragon
+Projeto criado para mostrar alguns dos dragões da série House of the Dragon e sua história
 
 ## Tecnologia utilizada
 
